@@ -1,0 +1,7 @@
+Tools yang digunakan :
+
+1. Python version 10.2
+2. Tkinter version 10.2
+3. Pyexe version 10.2
+4. Vs code version 9.0
+5. Blackbox version tidak diketahui
